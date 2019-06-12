@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cuentaPaladas</string>
+    <string name="cuentaPaladas">Cuenta Paladas:</string>
+    <string name="start">START</string>
+    <string name="paladas_min">paladas/min</string>
+    <string name="instrucciones">START cuenta cuatro paladas y STOP</string>
+    <string name="cronometro">00:00:00</string>
+</resources>
